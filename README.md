@@ -2,7 +2,7 @@
 ChatGPT-X Voice Assistant. ChatGPT-X voice assistant application written in Python. An application to help visually impaired people use a computer or as a helper at work.
 The application was written in Python 3.12.6. Application available for Polish and English users
 
-# 100% Open-Surce Project:
+# 100% Open-Source Project:
 - Code open to developers to add new features.
 
   # Instructions for using the program:
